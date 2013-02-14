@@ -1,4 +1,2 @@
-food
+mmmm food.
 ====
-
-recipes
