@@ -1,13 +1,13 @@
 No-Knead Bread
 ==============
 
-Ingredients:
-------------
+### Ingredients:
 
 * 3  cups all-purpose flour
 * 1¼ tsps instant yeast
 * 1¼ tsps salt
 
+### Steps
 
 1. In a large bowl combine flour, yeast and salt. Add 1 5/8 cups water, and stir
 until blended; dough will be shaggy and sticky. Cover bowl with plastic wrap.
@@ -38,4 +38,4 @@ on a rack.
 
 Yield: One 1½-pound loaf.
 
-Source: NYT http://www.nytimes.com/2006/11/08/dining/081mrex.html?_r=0
+_source: http://www.nytimes.com/2006/11/08/dining/081mrex.html?_r=0_
